@@ -1,0 +1,13 @@
+{
+  "name": "OUBAY BUSINESS",
+  "short_name": "OUBAY",
+  "description": "إدارة العلاقات التجارية والتوزيع",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f6f4",
+  "theme_color": "#155c3b",
+  "icons": []
+}
